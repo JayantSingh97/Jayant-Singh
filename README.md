@@ -19,7 +19,7 @@
    
 </p>
  
- I am a seasoned Software Engineer with over 8 years of experience in designing, developing, and deploying scalable software solutions. With a strong foundation in computer science and a passion for solving complex problems,I have contributed to multiple high-impact projects across diverse domains including fintech, enterprise software, and cloud-based platforms. Throughout his career,
+ I am a seasoned Software Engineer with over 8 years of experience in designing, developing, and deploying scalable software solutions. With a strong foundation in computer science and a passion for solving complex problems,I have contributed to multiple high-impact projects across diverse domains including fintech, enterprise software, and cloud-based platforms. Throughout my career,
  
 I have demonstrated expertise in full-stack development, microservices architecture, and agile methodologies. 
 <br/><br/>
@@ -34,7 +34,7 @@ Currently working as a Specialist in Software Engineering, I continues to drive 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Insurance Americas** IN esteemed MNC.
+- 🔭 I’m currently working on **Insurance Americas** in a esteemed MNC.
 
 - 👨‍💻 All of my projects are available at [https://github.com/JayantSingh97](https://github.com/JayantSingh97)
 
