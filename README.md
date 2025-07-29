@@ -56,4 +56,4 @@ Currently working as a Specialist in Software Engineering, Jayant continues to d
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singh97&show_icons=true&locale=en" alt="singh97" /></p>
 
 
-<h1>Thnak you...</h1> 
+<h1>Thank you...</h1> 
