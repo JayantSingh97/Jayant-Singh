@@ -19,14 +19,14 @@
    
 </p>
  
- I am a seasoned Software Engineer with over 8 years of experience in designing, developing, and deploying scalable software solutions. With a strong foundation in computer science and a passion for solving complex problems, Jayant has contributed to multiple high-impact projects across diverse domains including fintech, enterprise software, and cloud-based platforms. Throughout his career,
+ I am a seasoned Software Engineer with over 8 years of experience in designing, developing, and deploying scalable software solutions. With a strong foundation in computer science and a passion for solving complex problems,I have contributed to multiple high-impact projects across diverse domains including fintech, enterprise software, and cloud-based platforms. Throughout his career,
  
 I have demonstrated expertise in full-stack development, microservices architecture, and agile methodologies. 
 <br/><br/>
 I am proficient in technologies such as <b> Dot.net,Dot.net Core ,Angular,Vie.js,JavaScript (React/Node.js), and cloud platforms like AWS and Azure.</b>  His collaborative approach and commitment to code quality have made him a valuable asset in cross-functional teams.  
-Throughout his career, I have demonstrated expertise in full-stack development, microservices architecture, and agile methodologies. He is proficient in technologies such as <b> Dot.net,Dot.net Core ,Angular,Vie.js,JavaScript (React/Node.js),, and cloud platforms like AWS and Azure. His collaborative approach and commitment to code quality have made him a valuable asset in cross-functional teams.
+Throughout his career, I have demonstrated expertise in full-stack development, microservices architecture, and agile methodologies. I am proficient in technologies such as <b> Dot.net,Dot.net Core ,Angular,Vie.js,JavaScript (React/Node.js),, and cloud platforms like AWS and Azure. My collaborative approach and commitment to code quality have made him a valuable asset in cross-functional teams.
 
-Currently working as a Specialist in Software Engineering, Jayant continues to drive innovation and efficiency in software delivery. He is known for his analytical mindset, mentorship capabilities, and dedication to continuous learning.
+Currently working as a Specialist in Software Engineering, I continues to drive innovation and efficiency in software delivery. He is known for his analytical mindset, mentorship capabilities, and dedication to continuous learning.
 
  
 
