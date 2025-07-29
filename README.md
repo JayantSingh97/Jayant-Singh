@@ -14,7 +14,8 @@
   <img src="https://trynetsolutions.com/TS/b1.3.gif" width="200" alt="singh97" />  
    <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2023/2023-11/angular-logo.gif?sfvrsn=240a6236_3" width="200" alt="singh97" />  
    <img src="https://valto.co.uk/wp-content/uploads/2023/05/microsoft-azure-1-1030x515.png" width="200" alt="singh97" />  
-    
+       <img src="https://bairesdev.mo.cloudinary.net/blog/2023/06/asp-net-core-identity-with-patterns.jpg?tx=w_1512,q_auto" width="200" alt="singh97" />
+   
 </p>
  
  Jayant Singh is a seasoned Software Engineer with over 8 years of experience in designing, developing, and deploying scalable software solutions. With a strong foundation in computer science and a passion for solving complex problems, Jayant has contributed to multiple high-impact projects across diverse domains including fintech, enterprise software, and cloud-based platforms. Throughout his career,
