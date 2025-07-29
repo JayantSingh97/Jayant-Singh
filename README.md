@@ -1,11 +1,15 @@
 <h1 align="left">
   <p>
-<p > 
-  <p align="left"><img src="https://avatars.githubusercontent.com/u/51473212?s=400&u=a5c8039705c059f06a93d76fe61df4b21df2b42f&v=4" width="200" alt="singh97" /> <br> 
-  <img src="https://komarev.com/ghpvc/?username=singh97&label=Profile%20views&color=0e75b6&style=flat" alt="singh97" /> </p>
-      <p align="right"> <img src="https://trynetsolutions.com/TS/b1.3.gif" width="200" alt="singh97" />  </p>
+ 
+ <img src="https://avatars.githubusercontent.com/u/51473212?s=400&u=a5c8039705c059f06a93d76fe61df4b21df2b42f&v=4" width="200" alt="singh97" /> 
+  
+  <img src="https://trynetsolutions.com/TS/b1.3.gif" width="200" alt="singh97" />  
+   <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2023/2023-11/angular-logo.gif?sfvrsn=240a6236_3" width="200" alt="singh97" />  
+   <img src="https://valto.co.uk/wp-content/uploads/2023/05/microsoft-azure-1-1030x515.png" width="200" alt="singh97" />  
     
-
+</p>
+ <img src="https://komarev.com/ghpvc/?username=singh97&label=Profile%20views&color=0e75b6&style=flat" alt="singh97" /> 
+ <br>
   Hi 👋, 
   I'm Jayant singh</h1>
 
