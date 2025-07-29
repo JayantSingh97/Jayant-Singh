@@ -10,7 +10,8 @@
 
 
   </p>
-    <p align='center'>
+  <p align='center'> Core Technologies  </p>
+    <p align='center'> 
   <img src="https://trynetsolutions.com/TS/b1.3.gif" width="200" alt="singh97" />  
    <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2023/2023-11/angular-logo.gif?sfvrsn=240a6236_3" width="200" alt="singh97" />  
    <img src="https://valto.co.uk/wp-content/uploads/2023/05/microsoft-azure-1-1030x515.png" width="200" alt="singh97" />  
