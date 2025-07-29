@@ -26,7 +26,7 @@ I have demonstrated expertise in full-stack development, microservices architect
 I am proficient in technologies such as <b> Dot.net,Dot.net Core ,Angular,Vie.js,JavaScript (React/Node.js), and cloud platforms like AWS and Azure.</b>  His collaborative approach and commitment to code quality have made him a valuable asset in cross-functional teams.  
 Throughout his career, I have demonstrated expertise in full-stack development, microservices architecture, and agile methodologies. I am proficient in technologies such as <b> Dot.net,Dot.net Core ,Angular,Vie.js,JavaScript (React/Node.js),, and cloud platforms like AWS and Azure. My collaborative approach and commitment to code quality have made him a valuable asset in cross-functional teams.
 
-Currently working as a Specialist in Software Engineering, I continues to drive innovation and efficiency in software delivery. He is known for his analytical mindset, mentorship capabilities, and dedication to continuous learning.
+Currently working as a Specialist in Software Engineering, I continues to drive innovation and efficiency in software delivery. I am known for my analytical mindset, mentorship capabilities, and dedication to continuous learning.
 
  
 
