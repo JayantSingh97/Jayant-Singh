@@ -15,7 +15,7 @@
   <img src="https://trynetsolutions.com/TS/b1.3.gif" width="200" alt="singh97" />  
    <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2023/2023-11/angular-logo.gif?sfvrsn=240a6236_3" width="200" alt="singh97" />  
    <img src="https://valto.co.uk/wp-content/uploads/2023/05/microsoft-azure-1-1030x515.png" width="200" alt="singh97" />  
-  <img src="https://bairesdev.mo.cloudinary.net/blog/2023/06/asp-net-core-identity-with-patterns.jpg" width="200" alt="singh97" />
+  <img src="https://miro.medium.com/v2/resize:fit:1024/1*7Va7nSrYTR5fiNDxY20YYg.png" width="200" alt="singh97" />
    
 </p>
  
@@ -24,7 +24,7 @@
 I have demonstrated expertise in full-stack development, microservices architecture, and agile methodologies. 
 <br/><br/>
 I am proficient in technologies such as <b> Dot.net,Dot.net Core ,Angular,Vie.js,JavaScript (React/Node.js), and cloud platforms like AWS and Azure.</b>  My collaborative approach and commitment to code quality have made me a valuable asset in cross-functional teams.  
-Throughout his career, I have demonstrated expertise in full-stack development, microservices architecture, and agile methodologies. I am proficient in technologies such as <b> Dot.net,Dot.net Core ,Angular,Vie.js,JavaScript (React/Node.js),, and cloud platforms like AWS and Azure. My collaborative approach and commitment to code quality have made him a valuable asset in cross-functional teams.
+Throughout my career, I have demonstrated expertise in full-stack development, microservices architecture, and agile methodologies. I am proficient in technologies such as <b> Dot.net,Dot.net Core ,Angular,Vie.js,JavaScript (React/Node.js),, and cloud platforms like AWS and Azure. My collaborative approach and commitment to code quality have made him a valuable asset in cross-functional teams.
 
 Currently working as a Specialist in Software Engineering, I continues to drive innovation and efficiency in software delivery. I am known for my analytical mindset, mentorship capabilities, and dedication to continuous learning.
 
