@@ -5,9 +5,7 @@
  <img src="https://komarev.com/ghpvc/?username=singh97&label=Profile%20views&color=0e75b6&style=flat" alt="singh97" /> 
  <br>
   Hi 👋, 
-  I'm Jayant singh</h1>
-
-
+  I'm Jayant singh</h1> 
   </p>
   <p align='center'> Core Technology  </p>
     <p align='center'> 
