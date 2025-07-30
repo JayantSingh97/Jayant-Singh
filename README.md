@@ -13,7 +13,7 @@
   <p align='center'> Core Technologies  </p>
     <p align='center'> 
   <img src="https://trynetsolutions.com/TS/b1.3.gif" width="200" alt="singh97" />  
-   <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2023/2023-11/angular-logo.gif?sfvrsn=240a6236_3" width="200"  style='height:1270px' alt="singh97" />  
+   <img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2023/2023-11/angular-logo.gif?sfvrsn=240a6236_3" width="200"  style='height:127px' alt="singh97" />  
    <img src="https://assets.dio.me/23RZNpljzRZsyErpO7FP21L6QvQuKgYb3IuSFD_u3nQ/f:webp/q:80/L2FydGljbGVzL2NvdmVyLzQxNmIwNDcxLTNhMGQtNDVjNC04M2QwLTYwYjNmZmQzMWFkMC5qcGc" width="200" height='290' alt="singh97" />  
   <img src="https://miro.medium.com/v2/resize:fit:1024/1*7Va7nSrYTR5fiNDxY20YYg.png" width="200" height='115' alt="singh97" />
    
