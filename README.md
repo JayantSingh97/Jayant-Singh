@@ -52,5 +52,7 @@ Currently working as a Specialist in Software Engineering, I continues to drive 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singh97&show_icons=true&locale=en" alt="singh97" /></p>
 
+## online demo website built on agular dotnet core 
+https://jayantsingh97.github.io/OnlineWebSite/EagerComponent
 
 <h1>Thank you...</h1> 
