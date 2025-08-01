@@ -54,7 +54,7 @@ Currently working as a Specialist in Software Engineering, I continues to drive 
 ### Online demo website built on angular dotnet core 
 
 
-👉https://jayantJayantSingh97.github.io/OnlineWebSite
+👉https://JayantSingh97.github.io/OnlineWebSite
 
 
 <br>
