@@ -33,15 +33,15 @@ Currently working as a Specialist in Software Engineering, I continues to drive 
 
 - 🔭 I’m currently working on **Insurance Americas** in a esteemed MNC.
 
-- 👨‍💻 All of my projects are available at [https://github.com/JayantJayantSingh97](https://github.com/JayantJayantSingh97)
+- 👨‍💻 All of my projects are available at [https://github.com/JayantSingh97](https://github.com/JayantSingh97)
 
-- 📝 I regularly write articles on [https://github.com/JayantJayantSingh97](https://github.com/JayantJayantSingh97)
+- 📝 I regularly write articles on [https://github.com/JayantSingh97](https://github.com/JayantSingh97)
 
 - 💬 Ask me about **Angular,React,Dot net,Vue**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/jayantJayantSingh97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/jayantJayantSingh97" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://in.linkedin.com/in/JayantSingh97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/JayantSingh97" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
