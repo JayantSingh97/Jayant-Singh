@@ -4,8 +4,7 @@
   <br>
  <img src="https://komarev.com/ghpvc/?username=Singh97&label=Profile%20views&color=0e75b6&style=flat" alt="JayantSingh97" /> 
  <br>
-  Hi 👋, 
-  I'm Jayant singh</h1> 
+  Hi 👋, I'm Jayant singh</h1> 
   </p>
   <p align='center'> Core Technology  </p>
     <p align='center'> 
