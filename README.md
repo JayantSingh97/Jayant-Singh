@@ -26,7 +26,7 @@ Currently working as a Specialist in Software Engineering, I continues to drive 
 
  
 
-<p align="left"> <a href="https://github.com/jayantsingh97/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JayantSingh97" alt="JayantSingh97" /></a> </p>
+<p align="left"> <a href="https://github.com/Jayantsingh97/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JayantSingh97" alt="JayantSingh97" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
